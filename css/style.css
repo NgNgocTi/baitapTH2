@@ -128,7 +128,9 @@ aside .content-header .aside-child2{
     height: 100%;
     float: left;
 }
+
 aside .content-header .aside-child2 p{
+    font-size: 15px;
     margin-left: 20px;
     font-family:Arial, Helvetica, sans-serif;
     
